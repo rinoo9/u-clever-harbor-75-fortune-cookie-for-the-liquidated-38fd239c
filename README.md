@@ -6,9 +6,9 @@
 
 An entry for the make.fun bounty "Fortune Cookie for the Liquidated Trader": a single fortune cookie message for a crypto trader who has just been liquidated.
 
-Entry line (17 words):
+Entry line (20 words):
 
-> "The exchange has sent you a fortune: your liquidation price is now your new support level, forever."
+> "Your margin called: it says the dip was not a discount, it was a door, and you walked through it."
 
 ## Run
 
