@@ -6,9 +6,9 @@
 
 An entry for the make.fun bounty "Fortune Cookie for the Liquidated Trader": a single fortune cookie message for a crypto trader who has just been liquidated.
 
-Entry line (20 words):
+Entry line (15 words):
 
-> "Your margin called: it says the dip was not a discount, it was a door, and you walked through it."
+> "Lucky numbers: 100, 5, 0. That is your leverage, your stop-loss, and your remaining balance."
 
 ## Run
 
