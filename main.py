@@ -7,7 +7,7 @@ non-blank) and writes it to /output/entry.txt.
 
 import os
 
-ENTRY = "Your margin called: it says the dip was not a discount, it was a door, and you walked through it."
+ENTRY = "Lucky numbers: 100, 5, 0. That is your leverage, your stop-loss, and your remaining balance."
 
 MAX_WORDS = 20
 
