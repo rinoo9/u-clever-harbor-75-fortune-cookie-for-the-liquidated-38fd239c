@@ -7,7 +7,7 @@ non-blank) and writes it to /output/entry.txt.
 
 import os
 
-ENTRY = "The exchange has sent you a fortune: your liquidation price is now your new support level, forever."
+ENTRY = "Your margin called: it says the dip was not a discount, it was a door, and you walked through it."
 
 MAX_WORDS = 20
 
